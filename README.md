@@ -1,5 +1,6 @@
 # Financial-Analysis-and-Market-Risk-Management
-I worte these scripts for financial analysis and market risk measurement and gathered all stock data through Yahoo Finace API.   
+I worte these scripts for financial analysis and market risk measurement.    
+All stock data was gathered through **Yahoo Finace API**.   
 Inculded Financial Analytics:    
 1.modelling value at risk (VaR)    
 2.generating historical simulation (HS)   
