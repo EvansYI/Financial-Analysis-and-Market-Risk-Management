@@ -1,4 +1,4 @@
-# Financial-Analysis-and-Market-Risk-Management
+# Financial-Analysis-and-Market-Risk-Measurement
 I worte these scripts for financial analysis and market risk measurement.    
 All stock data was gathered through **Yahoo Finace API**.   
 Inculded Financial Analytics:    
